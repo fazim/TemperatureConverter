@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <color name="myColor">#F5F5F5</color>
+    <string name="celsius">\u00b0C</string>
+    <string name="fahrenheit">\u00b0F</string>
+    <string name="kelvin">\u00b0K</string>
+    <string name="rankine">\u00b0R</string>
+    <string name="calc">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="locate">Locate</string>
+
+</resources>
